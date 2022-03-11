@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shayari</string>
+    <string name="dialog_title">Language</string>
+    <string name="dialog_message">Select audio language English or Hindi</string>
+    <string name="dialog_Negative">English</string>
+    <string name="dialog_Positive">Hindi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_First_fragment">Hello First fragment</string>
+    <string name="hello_Second_fragment">Hello Second fragment</string>
+    <string name="enter_your_id_keep_empty_if_new_user">Enter Your id (Keep empty if new user)</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="cancel_update">cancel_update</string>
+    <string name="enter_your_id">Enter Your Id</string>
+    <string name="volley_api">Volley Api</string>
+    <string name="country_retrofit_api">Country Retrofit Api</string>
+</resources>

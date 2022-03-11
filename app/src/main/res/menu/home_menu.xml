@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragmet"
+        android:title="Fragment"/>
+    <item
+        android:id="@+id/dynamic_fragment"
+        android:title="Dynamic Fragment"/>
+    <item
+        android:id="@+id/date_and_time"
+        android:title="Date and Time"/>
+    <item
+        android:id="@+id/image_slider"
+        android:title="Image Slider"/>
+    <item
+        android:id="@+id/viewslider"
+        android:title="Viewslider with Fragment"/>
+
+    <item
+        android:id="@+id/tablayout"
+        android:title="Tablayout"/>
+
+    <item
+        android:id="@+id/navigation_drawer"
+        android:title="Navigation Drawer"/>
+
+    <item
+        android:id="@+id/database1"
+        android:title="Database Task 1"/>
+
+    <item
+        android:id="@+id/database2"
+        android:title="Database Task 2"/>
+
+    <item
+        android:id="@+id/database3"
+        android:title="Database Task 3"/>
+
+    <item
+        android:id="@+id/volly_api"
+        android:title="Volley Api"/>
+    <item
+        android:id="@+id/retrofit"
+        android:title="Retrofit Api"/>
+
+</menu>
