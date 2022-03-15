@@ -70,7 +70,7 @@ public class DataAdapter extends RecyclerView.Adapter<DataAdapter.Dataholder>{
                     @Override
                     public void onClick(View view) {
 
-                        textToSpeech.setLanguage(new Locale ("hi","IN"));
+                        textToSpeech.setLanguage(new Locale ("gu","IN"));
                         textToSpeech.speak(shayri[position],TextToSpeech.QUEUE_FLUSH,null);
                         Toast.makeText(activity, "Hindi voice", Toast.LENGTH_SHORT).show();
 
